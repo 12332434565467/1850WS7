@@ -1,5 +1,5 @@
 class VirtualPet:
-    def __inft__(self, name):
+    def __init__(self, name):
         self.name = name
         self.energy = 10
         self.hunger = 0
